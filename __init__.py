@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Schmod Blender Bindings",
-    "description": "Schmod Hotkey system for making Blender usage less ass",
+    "description": "Schmod Hotkey system for making Blender usage more betterer",
     "author": "Nicholas Reynolds",
     "version": (1, 0),
     "blender": (2, 80, 0),
